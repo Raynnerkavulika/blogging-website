@@ -14,6 +14,8 @@ include 'components/like_post.php';
 
 ?>
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
